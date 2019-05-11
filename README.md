@@ -1,7 +1,13 @@
+Just trying to keep track of all the random ideas.
+If it seems esoteric, it's because I'm the only one that needs to undersand it.
+If you like an idea, go for it, or hit me up
+
 # rocket endless flyer
 rocket blows up when you hit something and clears a radius
+* Each level naturally gets easier whenever you lose from the explosion removing whatever you collided with
 
 # 3 game cartridges fused.
+somehow 3 game cartidges fused making one game, a level will have distinct zones for each
 different color tiles are different games:
 * **yellow** -> platformer
 * **blue**   -> topdown
@@ -47,3 +53,5 @@ fighting game with less fighting and more consensual sex
 # NG Collab rhythm heaven game
 artist, programmers, designers and musicians unite!
 
+# Time Dialation
+some kind of endless game where time speeds up as you progress
